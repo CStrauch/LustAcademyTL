@@ -208,7 +208,7 @@ translate brazilian Katrina_1_label_d58f5d79:
 translate brazilian Katrina_1_label_1241f5af:
 
     # Samantha "Did you really fall for that childish prank? No, what, really?"
-    Samantha "Você realmente acreditou nessa pegadinha infantil? Sério??"
+    Samantha "Você realmente acreditou nessa pegadinha infantil? Sério?"
 
 # game/logic/events/Katrina.rpy:64
 translate brazilian Katrina_1_label_8d43ee78:
@@ -250,7 +250,7 @@ translate brazilian Katrina_1_label_e689fd8d:
 translate brazilian Katrina_1_label_08dc6245:
 
     # ch_Name "{i}(Great, another quarrel with Don is what I need now.){/i}"
-    ch_Name "{i}(Ótimo, outra discussão com Don é o que preciso agora.){/i}"
+    ch_Name "{i}(Ótimo, outra discussão com Don é exatamente o que preciso agora.){/i}"
 
 # game/logic/events/Katrina.rpy:74
 translate brazilian Katrina_1_label_615d2280:
