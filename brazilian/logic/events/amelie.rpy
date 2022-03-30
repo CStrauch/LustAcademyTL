@@ -2026,7 +2026,7 @@ translate brazilian Amelie_4_label_1813acfa:
 translate brazilian Amelie_4_label_2a6de3fa:
 
     # Amelie "Well, it should be here."
-    Amelie "Deve ser por aqui."
+    Amelie "Bem, deve ser por aqui."
 
 # game/logic/events/amelie.rpy:746
 translate brazilian Amelie_4_label_2d634f2b:
@@ -2062,7 +2062,7 @@ translate brazilian Amelie_4_label_a358fbfd:
 translate brazilian Amelie_4_label_9192878e:
 
     # Here we are.{w} Just great.
-    Amelie "Aqui estamos."
+    Amelie "Aqui estamos.{w} Que ótimo."
 
 # game/logic/events/amelie.rpy:754
 translate brazilian Amelie_4_label_bcfb758c:
@@ -2638,7 +2638,7 @@ translate brazilian Amelie_4_label_36d3f317:
 translate brazilian Amelie_4_label_fbea9f7b:
 
     # ch_Name "I'll come back later then, I promise."
-    ch_Name "Volto mais tarde, então."
+    ch_Name "Então eu olto mais tarde, prometo."
 
 # game/logic/events/amelie.rpy:904
 translate brazilian Amelie_4_label_4fa480ef:
